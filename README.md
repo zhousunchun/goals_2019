@@ -7,3 +7,11 @@
 # write the learning note about the ORB-SLAM
 # learn a GUI Library to visualize the slam result 
 # learn the theory about the data fusion 
+
+
+speed
+memory
+map quality
+robost
+long term slam performace
+ｌｏｏp closure time
