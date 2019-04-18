@@ -15,3 +15,9 @@ map quality
 robost
 long term slam performace
 ｌｏｏp closure time
+
+# Before May 15, finish the framework of DBOW3
+# Before May 30, finish the independent DBOW3 module
+# Before Jun 15, integrate the DBOW into Onlinslam
+# Before Jun 30, apply DBOW to localization, 
+# meanwhile, fix bug in the process. 
